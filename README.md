@@ -6,4 +6,4 @@ git status
 -
 git commit 
 
-Test
+git commit -m 'Text'
