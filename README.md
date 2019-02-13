@@ -1,3 +1,3 @@
 # README
 
-This is BETA
+This is BETA 2
